@@ -1,5 +1,5 @@
 import React from 'react'
-import { queryAllByTestId,  render, rerender } from '@testing-library/react'
+import { render } from '@testing-library/react'
 import Episodes from './Episodes'
 
 
